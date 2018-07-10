@@ -19,9 +19,9 @@ end
 
 def add_colors
   rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
+  "red",
+  "light_red",
+  "light_yellow"
 ]
 rainbow_colors.push "green"
 rainbow_colors.push "blue"
